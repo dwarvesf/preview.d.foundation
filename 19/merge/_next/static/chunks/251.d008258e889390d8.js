@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[251],{7251:(e,s,l)=>{l.r(s),l.d(s,{default:()=>c});var n=l(1814),r=l(1392);function c(e){let{children:s,siteConfig:l}=e;return(0,n.jsx)(r.A,{siteConfig:l,children:(0,n.jsx)("div",{className:"flex-grow py-2",children:s})})}}}]);
